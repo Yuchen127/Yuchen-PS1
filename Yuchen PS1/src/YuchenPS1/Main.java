@@ -1,10 +1,10 @@
 package YuchenPS1;
 
-public class YuchenPS1 {
+public class Main {
 
 	public static void main(String[] args) {
-		// Test
 
+		TangY.HelloWorld();
 	}
 
 }
